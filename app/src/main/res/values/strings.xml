@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Intro Page</string>
+    <string name="one">Open Confession is Good for the soul</string>
+    <string name="two">A confession has to be part of your new life</string>
+    <string name="three">It is the confession,not the priest,that gives us absolution</string>
+    <string name="four">We confess our little faults to persuade people that we have no large ones </string>
+    <string name="str3">Express Yourself</string>
+    <string name="str2">Recreate Life</string>
+    <string name="str1">Welcome</string>
+    <string name="str4">True word</string>
+</resources>
