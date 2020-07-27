@@ -4,7 +4,8 @@
 Show a beautiful Intro to your users with ease.
 ## Demo
 <div align="center"><img src="intopic.gif"/></div>
-## contact us
+### contact
+
 ```
 shamithniz@gmail.com
 ```
